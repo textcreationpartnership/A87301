@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for banishing all papists exercising any ecclesiastical jurisdiction, and all regulars of the popish clergy out of this kingdom.</title>
+            <title>Laws, etc.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87301</idno>
+            <idno type="STC">Wing I301</idno>
+            <idno type="STC">ESTC R178573</idno>
+            <idno type="EEBO-CITATION">43077512</idno>
+            <idno type="OCLC">ocm 43077512</idno>
+            <idno type="VID">151577</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151577)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2265:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for banishing all papists exercising any ecclesiastical jurisdiction, and all regulars of the popish clergy out of this kingdom.</title>
+                  <title>Laws, etc.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>[2], 3-9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook, printer to the King's Most Excellent Majesty, on Cork-Hill, near Copper Alley.</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>M DC XC VII [i.e. 1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151577:1"/>
+            <p>AN ACT For Baniſhing all PAPISTS Exerciſing any Eccleſiaſtical Juriſdiction, AND ALL REGULARS OF THE <hi>Popiſh Clergy</hi> Out of this KINGDOM.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>W R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIE MEIN TIENDRAI</q>
+            </figure>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excellent Majeſty, on <hi>Cork-Hill,</hi> near <hi>Copper-Alley.</hi> MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:151577:2"/>
+            <pb n="3" facs="tcp:151577:2"/>
+            <head>An ACT for Baniſhing all <hi>Papists</hi> exerciſing any Eccle<g ref="char:EOLhyphen"/>ſiaſtical Juriſdiction, and all Re<g ref="char:EOLhyphen"/>gulars of the <hi>Popiſh Clergy</hi> out of this Kingdom.</head>
+            <head>CHAP. XXVI.</head>
+            <p>WHEREAS, it is Notoriouſly known, That the late Rebellions in this King<g ref="char:EOLhyphen"/>dom have been Contrived, Promoted and Carried on by Popiſh Arch-Bi<g ref="char:EOLhyphen"/>ſhops, Biſhops, Ieſuits, and other Eccleſiaſti<g ref="char:EOLhyphen"/>cal Perſons of the Romiſh Clergy. And for<g ref="char:EOLhyphen"/>aſmuch as the Peace and Publick Safety of this Kingdom is in Danger, by the great number of the ſaid Arch-Biſhops, Biſhops, Ieſuits, Friers, and other Regular Romiſh Clergy, now reſiding here, and ſettling in Fra<g ref="char:EOLhyphen"/>ternities and Societies, contrary to Law, and to the great Impoveriſhing of many of His Ma<g ref="char:EOLhyphen"/>jeſty's Subjects of this Kingdom, who are forc d to maintain and ſupport them; which ſaid Romiſh Clergy do, not only endeavour to withdraw His Majeſty's Subjects from their Obedience, but do daily ſtir up, and move Se<g ref="char:EOLhyphen"/>dition, and Rebellion, to the great hazard of the Ruine and Deſolation of this Kingdom. For
+<pb n="4" facs="tcp:151577:3"/>the prevention of all which Miſchiefs, His Ma<g ref="char:EOLhyphen"/>jeſty is Graciouſly Pleaſed that it be En<g ref="char:EOLhyphen"/>acted.</p>
+            <p>And be it Enacted by the King's Moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, by, and with the Advice and Conſent of the Lords Spiritual and Tempo<g ref="char:EOLhyphen"/>ral, and Commons in this preſent Parliament Aſſembled, and by Authority of the ſame, That all Popiſh Arch-Biſhops, Biſhops, Vicars-General, Deans, Ieſuits, Monks, Friers, and all other Regular Popiſh Clergy, and all Pa<g ref="char:EOLhyphen"/>piſts exerciſing any Eccleſiaſtical Iuriſdiction, ſhall depart out of this Kingdom before the Firſt day of <hi>May,</hi> which ſhall be in the Year of Our Lord, One thouſand, Six hundred, Ninety eight: And if any of the ſaid Eccle<g ref="char:EOLhyphen"/>ſiaſtical Perſons, ſhall be at any time after the ſaid Firſt day of <hi>May,</hi> within this King<g ref="char:EOLhyphen"/>dom, they, and every of them ſhall ſuffer Im<g ref="char:EOLhyphen"/>priſonment, and remain in Priſon, without Bail or Mainprize, till he or they ſhall be Tranſ<g ref="char:EOLhyphen"/>ported beyond Seas, out of His Majeſty's Do<g ref="char:EOLhyphen"/>minions, wherever His Majeſty, His Heirs or Succeſſors, or the Chief Governor or Gover<g ref="char:EOLhyphen"/>nors of this Kingdom, for the time being, ſhall think fit: And if any perſon ſo Tranſported, ſhall return again into this Kingdom, they, and every of them, ſhall be Guilty of High-Treaſon; and every perſon ſo Offending, ſhall for his Offence, be adjudged a Traitor, and ſhall ſuffer, loſe and forfeit as in Caſe of High-Treaſon.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That all and every ſuch Popiſh Arch-Biſhops, Biſhops, Deane, Vicars-Ge<g ref="char:EOLhyphen"/>neral, Ieſuits, Friers, and all other Popiſh
+<pb n="5" facs="tcp:151577:3"/>Regular Clergy in this Kingdom, ſhall before the ſaid Firſt day of <hi>May,</hi> repair to the City of <hi>Dublin, Cork, Kingſale, Youghal, Waterford, Wexford, Gallway,</hi> or <hi>Carrickfergus,</hi> and there remain, until there ſhall be Conveniency of Shipping, for their Tranſportation into ſome Parts beyond Seas, and out of His Maje<g ref="char:EOLhyphen"/>ſty's Dominions, every of them on their firſt coming into any of the ſaid Cities and Towns, giving in their Names to the Mayor, or other Chief Magiſtrate, who is hereby required to Regiſter the ſame, and return an Account thereof to the Clerk of the Council, within Ten days; and that the ſaid Mayor, or o<g ref="char:EOLhyphen"/>ther Chief Magiſtrate of each Town, and alſo the Collector and Surveyor of the Port, ſhall give their beſt Aſſiſtance in Tranſporting eve<g ref="char:EOLhyphen"/>ry ſuch Popiſh Arch-Biſhop, Biſhop, and o<g ref="char:EOLhyphen"/>ther Popiſh Regular Clergy-man.</p>
+            <p>And be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That from and after the Twen<g ref="char:EOLhyphen"/>ty ninth day of <hi>December,</hi> which ſhall be in the Year of Our Lord God, One thouſand, Six hundred, and Ninety ſeaven, no Popiſh Arch-biſhop, Biſhop, Vicar-General, Deane, nor any other Papiſt exerciſing any Eccleſiaſtical Iuriſ<g ref="char:EOLhyphen"/>diction, not Eſtabliſhed by the Laws of this Kingdom, Ieſuite, or Frier ſhall come into this Kingdom, from any parts beyond the Seas, on pain of Twelve Months Impriſonment, and then to be Tranſported in manner aforeſaid: And if any ſuch Romiſh Eccleſiaſtical Perſon, ſo Tranſported, ſhall again return into this Kingdom, he and they ſo offending, ſhall be guilty of High-Treaſon, and Suffer accord<g ref="char:EOLhyphen"/>ingly.</p>
+            <pb n="6" facs="tcp:151577:4"/>
+            <p>And be it further Enacted, That any perſon that ſhall from and after the ſaid Firſt day of <hi>May,</hi> knowingly harbour, relieve, conceal, or entertain any ſuch Popiſh Arch-Biſhop, Biſhop, Vicar-General, Deane, Ieſuite, Frier, or any other Papiſt exerciſing any Eccleſiaſtical Iuriſ<g ref="char:EOLhyphen"/>diction, not Eſtabliſhed by the Laws of this Kingdom, or any Regular Popiſh Clergy-man, hereby required to depart out of this King<g ref="char:EOLhyphen"/>dom, in manner aforeſaid, or that from and after the ſaid Twenty ninth day of <hi>December,</hi> One thouſand, Six hundred, Ninety ſeaven, ſhall come into this Kingdom, contrary to the Tenor of this Act, ſhall for the Firſt Offence, forfeit the Summ of Twenty pounds; for the Second Offence, double the ſaid Summ, to be Levyed in manner herein-after expreſſed: And if he ſhall Offend the Third time, to forfeit all his Lands and Tenements of Freéhold or Inhe<g ref="char:EOLhyphen"/>ritance, during his Life, and alſo all his Goods and Chattels; One Moyety whereof to His Majeſty, his Heirs and Succeſſors, the other Moyety, to ſuch Perſon as ſhall Inform, ſo as ſuch Moy<g ref="char:EOLhyphen"/>ety do not exceed the Summ of One Hundred pounds, and the Surpluſs of what shall re<g ref="char:EOLhyphen"/>main to His Majeſty, His Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors, the ſaid Forfeiture for ſuch third Offence, to be Recovered by Bill, Plaint, Information, or Action for Debt, in any His Majeſty's Courts of Record at <hi>Dublin,</hi> or at the Aſſizes in the reſpective Counties.</p>
+            <p>And be it Enacted by the Authority aforeſaid, That upon Information on Oath, to any Iuſtice of Peace in his reſpective County, againſt any Perſon or Perſons, that ſhall knowingly Entertain, Succour, Relieve or Conceal any ſuch
+<pb n="7" facs="tcp:151577:4"/>Popiſh Arch-biſhop, Biſhop, Ieſuite, Frier, or other Eccleſiaſtical Popiſh Perſon, contrary to the purport and meaning of this Act; the ſaid Iu<g ref="char:EOLhyphen"/>ſtice of the Peace, ſhall immediately Iſſue a Summons in Writing under his Hand, there<g ref="char:EOLhyphen"/>by requiring the Perſon and Perſons ſo In<g ref="char:EOLhyphen"/>formed againſt, at a certain Day and Place within the ſaid County, where ſuch Offence ſhall be Committed, to appear before him, and ſome other Iuſtice of the Peace of the ſaid Coun<g ref="char:EOLhyphen"/>ty, to Anſwer the ſaid Matter laid to his, or their Charge; at which time and place the ſaid Iuſtices ſhall in preſence of the Perſon or Per<g ref="char:EOLhyphen"/>ſons Accuſed, or in Caſe of his or their Neg<g ref="char:EOLhyphen"/>lect to appear, being duly Summoned proceéd to the Examination of the ſaid Matter; and if it ſhall appear to them, on Evidence upon Oath, that the Perſon or Perſons ſo Complained of are Guilty, the ſaid Iuſtices ſhall by Warrant under their Hands and Seals, Levy the afore<g ref="char:EOLhyphen"/>ſaid Forfeitures of Twenty pounds for the firſt Offence, and Forty pounds for the ſecond Of<g ref="char:EOLhyphen"/>fence, of the Goods and Chattels of the Perſon or Perſons Offending, by Diſtreſs, Sale, or otherwiſe, and diſpoſe of one Moyety of ſuch Forfeitures to the Informer or Informers, and the other Moyety to the Treaſurer of the Coun<g ref="char:EOLhyphen"/>ty, where ſuch Offence ſhall be Committed, for the Vſe of the County; and for Default there<g ref="char:EOLhyphen"/>of, to Committ the Perſon Offending to the County Goal, there to remain without Bail or Mainprize, until he or they ſhall pay the ſaid Forfeitures and Penalties.</p>
+            <p>And be it further Enacted, That no Perſon whatſoever ſhall from, and after the ſaid Twen<g ref="char:EOLhyphen"/>ty Ninth Day of <hi>December,</hi> Bury and Dead in
+<pb n="8" facs="tcp:151577:5"/>any ſuppreſt Monaſtery, Abby, or Convent, that is not made uſe of, for Celebrating Divine Ser<g ref="char:EOLhyphen"/>vice, according to the Liturgy of the Church of <hi>Ireland,</hi> by the Law Eſtabliſhed, or within the Pre<g ref="char:EOLhyphen"/>cincts thereof, upon Pain of Forfeiting the Summ of Ten pounds; which ſaid Summ of Ten pounds ſhall, and may be Recovered from any Perſon or Perſons, that ſhall be preſent at ſuch Burial, and Offending contrary to the Tenor of this Act; which ſaid Forfeitures, all and every Iu<g ref="char:EOLhyphen"/>ſtices of the Peace, in his, and their reſpective Counties, are hereby Authorized, to Hear and Determine in manner as herein before is men<g ref="char:EOLhyphen"/>tioned and declared; one Moyety of which ſaid laſt Forfeiture for Burying contrary to this Act, ſhall be by ſuch Iuſtice given unto the Infor<g ref="char:EOLhyphen"/>mer, and the other Moyety to the Miniſter and Church-wardens of the Pariſh, where any ſuch Offences ſhall be Committed, to be diſpoſed of for the Vſe of the Pariſh.</p>
+            <p>Provided always, that if any Perſon or Per<g ref="char:EOLhyphen"/>ſons ſhall think him, or themſelves agrieved, by the Iudgment and Determination of ſuch Two Iuſtices of the Peace, that the Perſon and Per<g ref="char:EOLhyphen"/>ſons ſo agrieved, may Appeal from their Iudg<g ref="char:EOLhyphen"/>ment and Determination, to the next Iudges of Aſsize, or to the Iuſtices of Peace, at the next General Quarter-Seſſions, who are here<g ref="char:EOLhyphen"/>by Impowered to Examine the ſaid Matter, and give ſuch Relief therein, as to them ſhall ſeem meet.</p>
+            <p>And it is further Enacted that all and every Iuſtice of the Peace, ſhall from time to time Iſſue their Warrants for Apprehending, and Commit<g ref="char:EOLhyphen"/>tal of all Popiſh Arch-Biſhops, Biſhops, Ieſuits, Friers and other Popiſh Eccleſiaſtical perſons
+<pb n="9" facs="tcp:151577:5"/>whatſoever that ſhall remain or Continue in this Kingdom, contrary to the Tenor and meaning of this Act: And for Suppreſſing all Monaſteries, Frieries, Nunneries, or other Popiſh Fraternities or Societies.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That all and every the Iuſtices of the Peace in this Kingdom, ſhall give an accompt in Writing, of their proceédings in Execution of this Statute, at the next General Quarter-Seſ<g ref="char:EOLhyphen"/>ſions for the County, in which he ſhall Dwell, which ſhall be at ſuch Quarter-Seſſions Entred and Regiſtred.</p>
+            <p>And be it further Enacted, That if any Iu<g ref="char:EOLhyphen"/>ſtice of the Peace, Mayor, or other Officer ſhall neglect doing their Duty in Execution of this pre<g ref="char:EOLhyphen"/>ſent Act, every ſuch Iuſtice of the Peace, Mayor, and other Officer, ſhall for every ſuch neglect, for<g ref="char:EOLhyphen"/>feit the Summ of One Hundred Pounds, to be Recovered by Action of Debt, Bill, Plaint, or Information, wherein no Protection, Eſſoyn, or Wager of Law ſhall be allowed of, nor but one Imparlance; one Moyety thereof to the King's Ma<g ref="char:EOLhyphen"/>jeſty, His Heirs and Succeſſors, the other Moyety to the Informer, or Perſon that ſhall Sue for the ſame, and be Diſabled from ſerving as a Iu<g ref="char:EOLhyphen"/>ſtice of Peace, during his Life.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151577:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
